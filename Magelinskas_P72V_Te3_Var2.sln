@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Magelinskas_P72V_Te3_Var2", "Magelinskas_P72V_Te3_Var2.vcxproj", "{44770ABE-E12D-4A6D-B90C-79CBC4F1D95F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44770ABE-E12D-4A6D-B90C-79CBC4F1D95F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44770ABE-E12D-4A6D-B90C-79CBC4F1D95F}.Debug|Win32.Build.0 = Debug|Win32
+		{44770ABE-E12D-4A6D-B90C-79CBC4F1D95F}.Release|Win32.ActiveCfg = Release|Win32
+		{44770ABE-E12D-4A6D-B90C-79CBC4F1D95F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
